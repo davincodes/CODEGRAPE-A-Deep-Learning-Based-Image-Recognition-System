@@ -2,7 +2,7 @@
 
 ## Overview
 
-Codegrape is an image recognition system powered by Convolutional Neural Networks (CNNs) designed to identify diseases on grape leaves.
+Codegrape is an image recognition system powered by Convolutional Neural Networks (CNNs) designed to identify diseases on grape leaves. CNNs are used for finding patterns in images to recognize objects, classes, and categories.
 
 ## Project Highlights
 
